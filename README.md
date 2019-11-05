@@ -6,4 +6,6 @@ In the KNN classification script, I use a dataset from the UCI machine learning 
     The unknown variable is the variable being tested for
     
     This script is more for computational purposes (this script will be used in an rmd file for analysis purposes)
+    
+myfunctionsaug.R is a functions file that I DID NOT create
   
